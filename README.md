@@ -1,2 +1,6 @@
 # hello-world
 La descripcio corresponent al Hello World
+Aquesta és una descripció per veure que tal funciona el Github.
+Ho faig tot seguint el tutorial d'inici....
+
+Espero que s'acabi aviat....
